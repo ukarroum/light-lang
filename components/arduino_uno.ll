@@ -1,0 +1,27 @@
+component ArduinoUno
+{
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11
+    12
+    13
+    analog_0
+    analog_1
+    analog_2
+    analog_3
+    analog_4
+    analog_5
+    Vin
+    Gnd
+    5V
+    3.3V
+}
